@@ -1,5 +1,17 @@
 # Friend-Finder
 
+The Friend-Finder app was created to find new friends based on the results of a 10-question survey. This full-stack site will take in user answers, then compare their answers with those from other users. The app will then display the name and picture of the user with the closest overall match.
+
+<a href="https://friend-finder-jws.herokuapp.com/">View the finished product on Heroku.</a>
+
+# Technologies Used
+
+- HTML
+- Javascript
+- Express
+- Node.js
+- JSON
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/47361606/59071807-d9589580-8885-11e9-9cdc-f15fc7c39e2a.png)
 ![image](https://user-images.githubusercontent.com/47361606/59071848-fab98180-8885-11e9-910d-9ae43b19cad2.png)
